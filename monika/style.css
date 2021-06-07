@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.back{
+    width:100%;
+    height: 100vh;
+    position: fixed;
+    background:url(candles.jpg);
+    background-size: cover;
+    z-index: -100;
+}
+
+.area{
+font-size: 135px;
+font-weight: bold;
+}
+.one{
+    text-align: center;
+    color: #eba83a;
+    padding-left: 2%;
+}
+.name{
+    font-size: 150px;
+    border-width: 0px;
+    border-color: black;
+    color: #eba83a;
+    font-style: italic;
+    padding-right: 25%;
+    text-align: right;
+}
+.det{
+    color: #eac8af;
+    border:solid black;
+    border-radius: 2px;
+    font-size: 25px;
+    letter-spacing: 2px;
+    margin-bottom: 150px;
+    padding: 10%;
+}
+.imgarea{
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 150px;
+}
+.img{
+    width:35%;
+    margin-top: 80px;
+}
+img{
+    width:100%;
+}
+.right{
+    margin-left: 50%;
+}
+#kid{
+    margin-left: 40%;
+    font-size: 25px;
+}
